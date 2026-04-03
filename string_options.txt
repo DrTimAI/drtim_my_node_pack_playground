@@ -1,0 +1,4 @@
+Square (1:1)
+Portrait (2:3)
+Landscape (3:2)
+Voxta Stage (28:41)

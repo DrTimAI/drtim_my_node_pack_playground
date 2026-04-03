@@ -1,0 +1,104 @@
+-- Anthropic Models --
+anthropic/claude-sonnet-4.5
+anthropic/claude-opus-4.1
+anthropic/claude-opus-4
+anthropic/claude-sonnet-4
+anthropic/claude-3.7-sonnet
+anthropic/claude-3.7-sonnet:thinking
+anthropic/claude-3.5-haiku
+anthropic/claude-3.5-sonnet
+anthropic/claude-sonnet-4.5
+
+-- OpenAI Models --
+openai/gpt-5-nano
+openai/gpt-5-mini
+openai/gpt-5-chat
+openai/gpt-5
+openai/gpt-5-pro
+-
+openai/gpt-4.1-nano
+openai/gpt-4.1-mini
+openai/gpt-4.1
+-
+openai/gpt-4o-mini
+openai/gpt-4o-mini-2024-07-18
+openai/chatgpt-4o-latest
+openai/gpt-4o
+openai/gpt-4o:extended
+openai/gpt-4o-2024-11-20
+openai/gpt-4o-2024-08-06
+openai/gpt-4o-2024-05-13
+-
+openai/gpt-4-turbo
+openai/gpt-4-1106-preview
+openai/gpt-4-0314
+openai/gpt-4
+-
+openai/gpt-3.5-turbo-0613
+openai/gpt-3.5-turbo-instruct
+openai/gpt-3.5-turbo-16k
+openai/gpt-3.5-turbo
+-
+openai/o3-mini
+openai/o3-mini-high
+openai/o3
+openai/o3-pro
+-
+openai/o4-mini
+openai/o4-mini-high
+-
+openai/o1-mini
+openai/o1
+openai/o1-pro
+
+-- Google Models --
+google/gemini-2.5-flash
+google/gemini-2.5-flash-preview-09-2025
+google/gemini-2.5-flash-lite-preview-09-2025
+google/gemini-2.5-flash-image-preview
+google/gemini-2.5-flash-lite
+google/gemini-2.5-flash-lite-preview-06-17
+google/gemini-2.5-flash
+google/gemini-2.5-pro
+google/gemini-2.5-pro-preview
+google/gemini-2.5-pro-preview-05-06
+google/gemini-2.0-flash-lite-001
+google/gemini-2.0-flash-001
+
+-- Qwen Models --
+qwen/qwen3-vl-235b-a22b-thinking
+qwen/qwen3-vl-235b-a22b-instruct
+qwen/qwen3-coder-flash
+qwen/qwen3-coder-30b-a3b-instruct
+
+-- DeepSeek Models --
+deepseek/deepseek-v3.1-terminus
+deepseek/deepseek-r1-0528
+deepseek/deepseek-r1
+
+-- x-AI Models --
+x-ai/grok-4-fast
+
+-- Distilled Models --
+anthracite-org/magnum-v4-72b
+deepseek/deepseek-r1-distill-qwen-32b
+deepseek/deepseek-r1-distill-qwen-14b
+
+-- Auto Router --
+openrouter/auto
+
+-- Open Weights Models --
+openai/gpt-oss-120b
+openai/gpt-oss-20b
+
+-- Mistral Models --
+mistralai/devstral-small
+
+-- Free Models --
+meituan/longcat-flash-chat:free
+nvidia/nemotron-nano-9b-v2:free
+openai/gpt-oss-20b:free
+deepseek/deepseek-r1-0528:free
+deepseek/deepseek-r1:free
+google/gemini-2.0-flash-exp:free
+

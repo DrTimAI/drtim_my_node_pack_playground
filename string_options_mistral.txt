@@ -1,0 +1,9 @@
+mistral-large-latest
+mistral-medium-latest
+mistral-small-latest
+labs-mistral-small-creative
+codestral-latest
+pixtral-large-latest
+magistral-medium-latest
+open-mistral-nemo
+mistral-ocr-latest
